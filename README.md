@@ -2,7 +2,7 @@
 
 #  Projeto Urna Eletrônica 
 
-Este é o README para o projeto de uma Urna Eletrônica Brasileira desenvolvido como parte do curso da B7 Web. Neste projeto, criamos uma urna eletrônica simplificada que simula um processo de votação, utilizando tecnologias web, como HTML, CSS e JavaScript.
+Este é um projeto de uma Urna Eletrônica Brasileira desenvolvido como parte do curso da B7 Web. Neste projeto, criamos uma urna eletrônica simplificada que simula um processo de votação, utilizando tecnologias web, como HTML, CSS e JavaScript.
 
 ![image](https://github.com/aureliodeboa/Urna-eletronica/assets/53971991/d820010f-8eb7-4b3b-b3a2-295642eecce6)
 
